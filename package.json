@@ -1,0 +1,23 @@
+{
+  "name": "hexlet-lodash",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Evgeany/hexlet-lodash.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Evgeany/hexlet-lodash/issues"
+  },
+  "homepage": "https://github.com/Evgeany/hexlet-lodash#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
